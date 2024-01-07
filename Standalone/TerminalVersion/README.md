@@ -1,4 +1,4 @@
-# Wiki Search Terminal Version standalone
+# Wiki Search Terminal Version Standalone
 A basic scripts that you can search a subject and it will shows a basic summary of the subject from wikipeadia.
 
 # Requirments
