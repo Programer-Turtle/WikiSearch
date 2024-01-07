@@ -1,4 +1,4 @@
-# Wiki Search GUI Version standalone
+# Wiki Search GUI Version Standalone
 A basic scripts that you can search a subject and it will shows a basic summary of the subject from wikipeadia.
 
 # Requirments
