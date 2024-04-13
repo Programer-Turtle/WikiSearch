@@ -21,8 +21,6 @@ This version was designed to be run by itself, because of this you will have to 
 Standalone can run GUI and Terminal version of Wiki Search.
 
 **Recommendations**
-- Have a version of Python OS with AutoPip so you wont have install dependencies.
-- Rename program file before installing into Python OS.
 - Have newest version of pip before installing dependencies.
 
 # Interface Types
